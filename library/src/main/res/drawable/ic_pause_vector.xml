@@ -16,10 +16,10 @@
 
         <path
             android:name="v"
-            android:fillColor="#000000"
+            android:fillColor="#fafafa"
             android:pathData="@string/path_pause"
 
-            app:vc_fillColor="#000000"
+            app:vc_fillColor="#fafafa"
             app:vc_pathData="@string/path_pause"/>
     </group>
 </vector>
